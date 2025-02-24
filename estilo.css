@@ -6,3 +6,22 @@
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
 }
+body {
+    font-size: 1rem;
+    font-family: 'Montserrat';
+}
+
+header {
+    background-color: #ffffff;
+}
+
+
+section {
+    padding-bottom: 5rem;
+}
+
+
+.nav-link {
+    color: #CB6D43;
+    font-weight: 600;
+}
